@@ -23,8 +23,12 @@
             "id": "7b47eb63e1c585ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Анализ бизнес показателей/Событийная аналитика/Aha-момент.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -39,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Анализ бизнес показателей/Сбор и хранение данных/Web mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Анализ бизнес показателей/Сбор и хранение данных/Web mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Анализ бизнес показателей/Сбор и хранение данных/Web mining.md"
+              }
             }
           }
         ]
@@ -163,8 +170,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7b47eb63e1c585ce",
+  "active": "6a53aeef62707ff8",
   "lastOpenFiles": [
+    "Анализ бизнес показателей/Событийная аналитика/Aha-момент.md",
     "Анализ бизнес показателей/Сбор и хранение данных/Что аналитик должен знать об интернете Браузер. HTML. HTTP..md",
     "Анализ бизнес показателей/Сбор и хранение данных/Что такое транспортный протокол.md",
     "Анализ бизнес показателей/Сбор и хранение данных/Web mining.md",
