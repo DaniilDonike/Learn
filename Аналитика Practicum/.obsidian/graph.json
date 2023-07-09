@@ -5,18 +5,61 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Анализ бизнес показателей/Кагортный анализ\"",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Анализ бизнес показателей/Юнит-экономика\"",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Анализ бизнес показателей/Событийная аналитика\"",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Анализ бизнес показателей/Сбор и хранение данных\"",
+      "color": {
+        "a": 1,
+        "rgb": 4456703
+      }
+    },
+    {
+      "query": "path:\"Анализ бизнес показателей/Продвинутый SQL\"",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "path:\"Анализ бизнес показателей/Принятие бизнес решений\"",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.18462326225858172,
+  "repelStrength": 8.85416666666667,
+  "linkStrength": 0,
+  "linkDistance": 248,
+  "scale": 0.13168724279835525,
   "close": false
 }
