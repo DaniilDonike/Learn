@@ -11,8 +11,12 @@
             "id": "1fb2e8c81e19d821",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Как рассказать историю с помощью данных/Подготовка презентаций/Абсолютные и относительные величины.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Как рассказать историю с помощью данных/Подготовка презентаций/Абсолютные и относительные величины.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Как рассказать историю с помощью данных/Подготовка презентаций/Абсолютные и относительные величины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Как рассказать историю с помощью данных/Подготовка презентаций/Абсолютные и относительные величины.md"
+              }
             }
           }
         ]
@@ -154,12 +162,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "1fb2e8c81e19d821",
