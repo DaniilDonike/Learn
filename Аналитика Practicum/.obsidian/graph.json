@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 12279289
       }
+    },
+    {
+      "query": "path:\"Как рассказать историю с помощью данных\"",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
     }
   ],
   "collapse-display": true,
@@ -49,10 +56,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 12.9065743944637,
+  "centerStrength": 0,
+  "repelStrength": 0,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.33406833869351843,
+  "scale": 0.9021087640494415,
   "close": true
 }
