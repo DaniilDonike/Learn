@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 6073814
       }
+    },
+    {
+      "query": "path:Автоматизация",
+      "color": {
+        "a": 1,
+        "rgb": 9789314
+      }
     }
   ],
   "collapse-display": true,
@@ -61,5 +68,5 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.4505081176757809,
-  "close": false
+  "close": true
 }
